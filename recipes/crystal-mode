@@ -1,0 +1,2 @@
+(crystal-mode :fetcher github :repo "dotmilk/emacs-crystal-mode"
+              :files ("crystal-mode.el"))
